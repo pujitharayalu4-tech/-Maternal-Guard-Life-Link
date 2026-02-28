@@ -37,7 +37,6 @@ Maternal Health Risk Dataset (Kaggle)
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-## Demo
-The application was demonstrated locally using Streamlit.
-Model evaluation results (F1-score, Confusion Matrix, Feature Importance)
-were generated during the experimentation phase.
+## Demo Status
+The Streamlit application was demonstrated locally.
+Cloud deployment link is currently inactive.
